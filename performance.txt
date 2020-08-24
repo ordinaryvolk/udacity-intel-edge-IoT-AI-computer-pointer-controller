@@ -1,0 +1,49 @@
+FP16
+
+[Info]: Video source FPS: 30
+[Info]: Total frame count: 60
+
+[Info]: Face detection model loading time: 133.983 ms
+[Info]: Head pose model loading time: 64.742 ms
+[Info]: Facial landmarks detection model loading time: 53.378 ms
+[Info]: Gaze estimation model loading time: 75.864 ms
+
+[Info]: Average  per frame total processing time : 83.386 ms
+[Info]: Average face inferencing  time: 13.749 ms
+[Info]: Average head pose  inferencing  time: 1.591 ms
+[Info]: Average facial landmarks inferencing  time: 0.635 ms
+[Info]: Average gaze estimate  time: 1.767 ms
+
+
+
+FP16-INT8
+[Info]: Video source FPS: 30
+[Info]: Total frame count: 60
+
+[Info]: Face detection model loading time: 138.366 ms
+[Info]: Head pose model loading time: 219.214 ms
+[Info]: Facial landmarks detection model loading time: 71.423 ms
+[Info]: Gaze estimation model loading time: 144.235 ms
+
+[Info]: Average  per frame total processing time : 79.824 ms
+[Info]: Average face inferencing  time: 12.196 ms
+[Info]: Average head pose  inferencing  time: 1.266 ms
+[Info]: Average facial landmarks inferencing  time: 0.603 ms
+[Info]: Average gaze estimate  time: 1.322 ms
+
+
+FP32
+[Info]: Video source FPS: 30
+[Info]: Total frame count: 60
+
+[Info]: Face detection model loading time: 143.827 ms
+[Info]: Head pose model loading time: 160.146 ms
+[Info]: Facial landmarks detection model loading time: 76.742 ms
+[Info]: Gaze estimation model loading time: 69.355 ms
+
+[Info]: Average  per frame total processing time : 82.116 ms
+[Info]: Average face inferencing  time: 13.427 ms
+[Info]: Average head pose  inferencing  time: 1.577 ms
+[Info]: Average facial landmarks inferencing  time: 0.663 ms
+[Info]: Average gaze estimate  time: 1.707 ms
+

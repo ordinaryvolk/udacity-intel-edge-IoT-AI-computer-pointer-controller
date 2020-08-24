@@ -1,0 +1,21 @@
+.
+├── bin
+├── models
+│   └── intel
+│       ├── face-detection-adas-binary-0001
+│       │   └── FP32-INT1
+│       ├── gaze-estimation-adas-0002
+│       │   ├── FP16
+│       │   ├── FP16-INT8
+│       │   └── FP32
+│       ├── head-pose-estimation-adas-0001
+│       │   ├── FP16
+│       │   ├── FP16-INT8
+│       │   └── FP32
+│       └── landmarks-regression-retail-0009
+│           ├── FP16
+│           ├── FP16-INT8
+│           └── FP32
+├── src
+│   └── __pycache__
+└── venv
